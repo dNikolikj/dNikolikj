@@ -107,6 +107,13 @@ Here are the key technologies I specialize in:
 
 :email: Contact form for inquiries and feedback
 
+## 🔹 Repository 7: MM9achinery
+
+🌟 Testimonials Showcase: Highlighting the positive experiences and satisfaction of company's valued customers, featuring their testimonials and feedback.
+
+🤝 Client Showcase: Showcasing the esteemed clients the company  collaborate with, emphasizing their trust and partnership with MM9Machinery.
+
+💼 Collaborators Spotlight: Showcasing company's esteemed collaborators and industry partners, illustrating the strong network and alliances we have built.
 
 
 I'm always excited to learn and expand my skills, actively participating in hackathons, webinars, and reading insightful books.
