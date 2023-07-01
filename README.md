@@ -21,8 +21,11 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
 ## Software Design Patterns
 :bulb: Repository Design Pattern: Abstracting data access and providing a consistent interface for working with data.
+
 :bulb: Mediator Design Pattern: Decoupling components by centralizing communication through a mediator object.
 
+# Methodology
+:hourglass_flowing_sand: Agile Development with Scrum: Following the Agile principles and utilizing the Scrum framework for effective collaboration and iterative development.
 
 ## 📚 Books I've Explored:
 
