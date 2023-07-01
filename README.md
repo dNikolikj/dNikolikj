@@ -17,9 +17,9 @@ Here are the key technologies I specialize in:
 
 📚 Books I've Explored:
 
-## C# in Depth, Fourth Edition by Jon Skeet
+ C# in Depth, Fourth Edition by Jon Skeet
 
-## Clean Code by Robert C. Martin
+ Clean Code by Robert C. Martin
 
 # Projects & Features:
 
