@@ -12,7 +12,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 ##  🚀 Other Technologies:
 
 🌐 Microsoft SQL Server | 🧱 Entity Framework Core | ☁️ Azure Cosmos DB 
- 🚀 Azure DevOps | ⚛️ React.js | 🧪 NUnit
+🚀 Azure DevOps | ⚛️ React.js | 🧪 NUnit
 
 ## Architecture Patterns
 :bulb: Onion Architecture: Implementing a modular and testable architecture that promotes separation of concerns.
