@@ -4,18 +4,26 @@ I'm Darko Nikolikj, a passionate .Net developer with solid skills and experience
 
 I love building robust and scalable solutions using cutting-edge technologies. 
 
-Here are the key technologies I specialize in:
+## Here are the key technologies I specialize in:
 
  💻 .NET | C# | 🅰️ Angular
 
 
- 🚀 Other Technologies:
+##  🚀 Other Technologies:
 
  🌐 Microsoft SQL Server | 🧱 Entity Framework Core | ☁️ Azure Cosmos DB 
  🚀 Azure DevOps | ⚛️ React.js | 🧪 NUnit
 
+## Architecture Patterns
+:bulb: Onion Architecture: Implementing a modular and testable architecture that promotes separation of concerns.
+:bulb: N-Tier Architecture: Designing the application with clear separation between presentation, business logic, and data layers.
 
-📚 Books I've Explored:
+## Software Design Patterns
+:bulb: Repository Design Pattern: Abstracting data access and providing a consistent interface for working with data.
+:bulb: Mediator Design Pattern: Decoupling components by centralizing communication through a mediator object.
+
+
+## 📚 Books I've Explored:
 
  C# in Depth, Fourth Edition by Jon Skeet
 
