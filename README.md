@@ -119,7 +119,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
 :email: Contact form for inquiries and feedback
 
-## 🔹 Repository 7: MM9achinery
+## 🔹 Repository 7: MM9Machinery
 
 🌟 Testimonials Showcase: Highlighting the positive experiences and satisfaction of company's valued customers, featuring their testimonials and feedback.
 
