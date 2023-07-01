@@ -16,6 +16,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
 ## Architecture Patterns
 :bulb: Onion Architecture: Implementing a modular and testable architecture that promotes separation of concerns.
+
 :bulb: N-Tier Architecture: Designing the application with clear separation between presentation, business logic, and data layers.
 
 ## Software Design Patterns
