@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile!
 
-I'm Darko Nikolikj, a passionate .Net developer with expertise in .NET, C#, and Angular.
+I'm Darko Nikolikj, a passionate .Net developer with solid skills and experience in .NET, C#, and Angular.
 
 I love building robust and scalable solutions using cutting-edge technologies. 
 
@@ -17,9 +17,9 @@ Here are the key technologies I specialize in:
 
 📚 Books I've Explored:
 
-C# in Depth, Fourth Edition by Jon Skeet
+## C# in Depth, Fourth Edition by Jon Skeet
 
-Clean Code by Robert C. Martin
+## Clean Code by Robert C. Martin
 
 # Projects & Features:
 
@@ -27,7 +27,7 @@ Clean Code by Robert C. Martin
 
 ⚡️ Collaborated on an end-to-end web application using Agile Methodology.
 
-📊 Created a productivity management tool to help users handle their workload better.
+📊 Collaborated on a productivity management tool to help users handle their workload better.
 
   Task Management
 
@@ -51,7 +51,7 @@ Clean Code by Robert C. Martin
 
 ## 🔹 Repository 2: JavaScript Map your workouts App
 
-📍 Built a location-based workout tracking app using HTML, CSS, and JavaScript.
+📍 Collaborated on a location-based workout tracking app using HTML, CSS, and JavaScript.
 
 :running_woman: Tracking of running and cycling workouts
 
@@ -59,7 +59,7 @@ Clean Code by Robert C. Martin
 
 ## 🔹 Repository 3: JavaScript Bank App
 
-💰 Developed a banking application with features like account management and transaction history.
+💰 Collaborated on a banking application with features like account management and transaction history.
 
 💳 Utilized modern JavaScript concepts and DOM manipulation.
 
@@ -91,8 +91,9 @@ Clean Code by Robert C. Martin
 
 ## 🔹 Repository 5: DotNet RPG
 
-⚔️ Developed a role-playing game backend using .NET and Entity Framework Core.
-🌍 Implemented RESTful APIs for character management and battle mechanics.
+⚔️ Collaborated on a role-playing game backend using .NET and Entity Framework Core.
+
+🌍 Collaborated in implementing  RESTful APIs for character management and battle mechanics.
 
 ## 🔹 Repository 6: Omnifood Project
 
