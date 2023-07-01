@@ -24,7 +24,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
 :bulb: Mediator Design Pattern: Decoupling components by centralizing communication through a mediator object.
 
-# Methodology
+## Methodology
 :hourglass_flowing_sand: Agile Development with Scrum: Following the Agile principles and utilizing the Scrum framework for effective collaboration and iterative development.
 
 ## 📚 Books I've Explored:
