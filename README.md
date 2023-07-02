@@ -6,7 +6,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
 ## Here are the key technologies I specialize in:
 
-  .NET | C# | 🅰️ Angular
+  ### .NET | C# | Angular
 
 
 ##  🚀 Other Technologies:
