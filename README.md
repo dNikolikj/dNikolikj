@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Profile!
+# 💻 Transforming Ideas into Reality with .NET 💻!
 
 I'm Darko Nikolikj, a passionate .Net developer with solid skills and experience in .NET, C#, and Angular.
 
