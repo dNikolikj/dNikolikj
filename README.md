@@ -1,8 +1,8 @@
 # 💻 Transforming Ideas into Reality with .NET!
 
-I'm Darko Nikolikj, a passionate .NET developer with solid skills and experience in .NET, C#, and Angular.
+### I'm Darko Nikolikj, a passionate .NET developer with solid skills and experience in .NET, C#, and Angular.
 
-I love building robust and scalable solutions using cutting-edge technologies. 
+###  I love building robust and scalable solutions using cutting-edge technologies. 
 
 ## Here are the key technologies I specialize in:
 
@@ -127,6 +127,6 @@ I love building robust and scalable solutions using cutting-edge technologies.
 💼 Collaborators Spotlight: Showcasing company's esteemed collaborators and industry partners, illustrating the strong network and alliances we have built.
 
 
-I'm always excited to learn and expand my skills, actively participating in hackathons, webinars, and reading insightful books.
+### I'm always excited to learn and expand my skills, actively participating in hackathons, webinars, and reading insightful books.
 
- Let's connect and build amazing things together! 🌟
+ ### Let's connect and build amazing things together! 🌟
