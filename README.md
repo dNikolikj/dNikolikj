@@ -100,7 +100,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 :mag_right: Advanced search functionality
 
 
-## 🔹 Repository 5: DotNet RPG
+## 🔹 Repository 5: DotNET RPG
 
 ⚔️ Collaborated on a role-playing game backend using .NET and Entity Framework Core.
 
