@@ -32,7 +32,7 @@ I love building robust and scalable solutions using cutting-edge technologies.
 
  Clean Code by Robert C. Martin
 
-# 🔧Projects & Features:
+# 🔧 Projects & Features:
 
 ## 🔹 Repository 1: Productivity App
 
