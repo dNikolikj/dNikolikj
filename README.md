@@ -28,9 +28,16 @@
 
 ## 📚 Books I've Explored:
 
- C# in Depth, Fourth Edition by Jon Skeet
-
- Clean Code by Robert C. Martin
+### 1. 📚 "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+### 2. 📚 "The Clean Coder" by Robert C. Martin
+### 3. 📚 "Clean Code" by Robert C. Martin
+### 4. 📚 "C# in Depth, Fourth Edition" by Jon Skeet
+### 5. 📚 "The Art of Unit Testing, Second Edition, with Examples in C#" by Roy Osherove
+### 6. 📚 "Growing Object-Oriented Software, Guided by Tests" by Steve Freeman and Nat Pryce
+### 7. 📚 "Test-Driven Development By Example" by Kent Beck
+### 8. 📚 "Unit Testing: Principles, Practices, and Patterns" by Vladimir Khorikov
+### 9. 📚 "Code Like a Pro in C#" by Jort Rodenburg
+### 10. 📚 "HTTP/2 in Action" by Barry Pollard
 
 # 🔧 Projects & Features:
 
