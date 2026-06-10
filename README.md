@@ -1,98 +1,96 @@
-## 👋 Hi, I’m Darko Nikolikj
+# 👋 Hi, I’m Darko Nikolikj
 
-Full-stack software engineer with a strong focus on building clear, maintainable, and scalable systems.  
-I enjoy working across backend, frontend, and cloud — especially where systems, people, and processes meet.
+Cloud-oriented Full Stack Software Engineer focused on building reliable, maintainable, and business-relevant systems with **.NET, Angular, Azure, GraphQL, MongoDB, SQL, CI/CD, and modern engineering practices**.
 
-Most of my recent work has been in **enterprise platforms** (logistics, data automation, cloud-native systems), while continuously sharpening fundamentals and learning new tools along the way.
+Most of my recent work has been in enterprise logistics, customs automation, data automation, and cloud-oriented platform development. I enjoy working where backend systems, frontend applications, cloud-aware delivery, documentation, and developer productivity meet.
 
 ---
 
-## 🧠 What I work with
+## 🧠 Core Engineering Stack
 
 ### ⚙️ Backend
-- .NET • C#
-- REST • GraphQL
-- MS SQL Server • MongoDB Atlas
-- Entity Framework Core
+
+.NET • C# • ASP.NET Core • REST APIs • GraphQL • Entity Framework Core • SQL Server • MongoDB Atlas
 
 ### 🖥️ Frontend
-- Angular • React
-- PrimeNG • Nx
-- Micro-frontends
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure
-- CI/CD pipelines
-- Infrastructure-aware development
-- Azure DevOps
+Angular • TypeScript • JavaScript • React • PrimeNG • Nx • Micro-frontends • Module Federation
+
+### ☁️ Cloud, CI/CD & Quality
+
+Microsoft Azure • Azure DevOps • CI/CD pipelines • automated testing • infrastructure-aware development • technical documentation • maintainability
+
+### 🤖 AI-Assisted Development
+
+Claude • OpenAI Codex • GitHub Copilot • agent-friendly documentation • agentic workflows • MCP/API integration concepts
+
+I use AI tools as supervised engineering assistants, not replacements for engineering judgment. My programming, architecture, and product-context knowledge help me provide the right context, evaluate AI output critically, validate changes through tests and review, and turn suggestions into maintainable software.
 
 ---
 
 ## 🏗️ Architecture & Design
 
-I’ve worked with and applied common architectural and design patterns in real projects, including:
+I have worked with and applied architectural and design patterns in real projects, including:
 
-- **Onion Architecture** – promoting separation of concerns and testability  
-- **N-Tier Architecture** – structuring applications with clear responsibility boundaries  
-- **Repository Pattern** – abstracting data access for cleaner domain logic  
-- **Mediator Pattern** – reducing coupling between components  
+* **Onion Architecture** — separation of concerns, testability, and maintainable domain logic
+* **N-Tier Architecture** — clear responsibility boundaries between application layers
+* **Repository Pattern** — cleaner data access and domain separation
+* **Mediator Pattern** — reduced coupling between components
 
-I value pragmatism over dogma — patterns are tools, not goals.
+I value pragmatism over dogma: patterns are tools, not goals.
 
 ---
 
 ## 📚 Learning & Reading
 
-I use GitHub not only to store code, but also to **track my learning journey**.  
-Some books that have shaped how I think about software:
+I use GitHub not only to store code, but also to document my learning journey and strengthen software engineering fundamentals.
 
-- *The Pragmatic Programmer* — Andrew Hunt & David Thomas  
-- *Clean Code* / *The Clean Coder* — Robert C. Martin  
-- *C# in Depth* — Jon Skeet  
-- *The Art of Unit Testing* — Roy Osherove  
-- *Growing Object-Oriented Software, Guided by Tests* — Freeman & Pryce  
-- *Test-Driven Development: By Example* — Kent Beck  
-- *Unit Testing: Principles, Practices, and Patterns* — Vladimir Khorikov  
-- *HTTP/2 in Action* — Barry Pollard  
+Books that shaped how I think about software:
 
-Always reading, always refining.
+* *The Pragmatic Programmer* — Andrew Hunt & David Thomas
+* *Clean Code* / *The Clean Coder* — Robert C. Martin
+* *C# in Depth* — Jon Skeet
+* *The Art of Unit Testing* — Roy Osherove
+* *Growing Object-Oriented Software, Guided by Tests* — Freeman & Pryce
+* *Test-Driven Development: By Example* — Kent Beck
+* *Unit Testing: Principles, Practices, and Patterns* — Vladimir Khorikov
+* *HTTP/2 in Action* — Barry Pollard
+
+For me, reading is not separate from engineering. It helps me reason better about code quality, testing, maintainability, APIs, architecture, and AI-assisted development.
 
 ---
 
 ## 🧪 Projects & Practice
 
-This profile includes a mix of **learning projects**, **experiments**, and **practice applications** built over time.  
-They reflect how I explore new ideas, reinforce fundamentals, and test concepts before applying them in larger systems.
+This profile includes learning projects, experiments, and practice applications built over time. Some repositories are public, while much of my strongest professional work is private due to enterprise and client confidentiality.
 
-Examples include:
-- Productivity and task-management applications
-- JavaScript-based applications (maps, banking simulations, UI-heavy apps)
-- Learning Management System features
-- Backend-focused projects using .NET, EF Core, and REST APIs
-- UI-focused projects emphasizing responsive design and usability
+Project areas include:
 
-Some projects are public, others are private — all are part of continuous growth.
+* Productivity and task-management applications
+* JavaScript applications such as maps, banking simulations, and UI-heavy apps
+* Learning Management System features
+* Backend-focused projects using .NET, EF Core, SQL, and REST APIs
+* UI-focused projects emphasizing responsive design and usability
+* Architecture and testing practice projects
 
----
-
-## 🎯 How I approach engineering
-
-- Prefer clarity over cleverness  
-- Care about how systems evolve, not just how they start  
-- Enjoy collaboration and learning from more experienced engineers  
-- Believe good software is built through communication as much as code  
+These projects reflect how I explore concepts, reinforce fundamentals, and prepare ideas before applying them in larger systems.
 
 ---
 
-## 🤝 Let’s connect
+## 🎯 How I Approach Engineering
 
-If you’re interested in:
-- Full-stack development
-- Cloud-native systems
-- Clean architecture
-- Continuous learning
+* Prefer clarity over cleverness
+* Build for maintainability, not only initial delivery
+* Care about documentation, testing, and long-term code quality
+* Use AI tools responsibly, with human review and engineering judgment
+* Enjoy collaboration and learning from more experienced engineers
+* Believe good software is built through communication as much as code
 
-Feel free to explore, connect, or reach out.
+---
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link  
-📬 Email: nikolikjd@gmail.com
+## 🤝 Let’s Connect
+
+I’m interested in Full Stack / Cloud Software Engineering, enterprise software, clean architecture, Azure, CI/CD, documentation, software quality, and responsible AI-assisted development.
+
+🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+📬 Email: [nikolikjd@gmail.com](mailto:nikolikjd@gmail.com)
