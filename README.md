@@ -6,6 +6,12 @@ Most of my recent work has been in enterprise logistics, customs automation, dat
 
 ---
 
+🌐 Professional Portfolio
+
+dareformore.dev — my professional portfolio presenting my full-stack/cloud engineering profile, selected career impact, certifications, AI-assisted development approach, and production-quality web delivery.
+
+The portfolio was built not only as a personal website, but also as a practical release-quality project covering project foundation, GitHub workflow, agent/developer collaboration, pre-commit quality gates, build/lint/test/E2E validation, accessibility, SEO/metadata, performance review, responsive design, multilingual quality, security-aware frontend deployment, documentation standards, and final release readiness.
+
 ## 🧠 Core Engineering Stack
 
 ### ⚙️ Backend
