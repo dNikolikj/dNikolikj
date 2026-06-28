@@ -6,7 +6,7 @@ Most of my recent work has been in enterprise logistics, customs automation, dat
 
 ---
 
-🌐 Professional Portfolio
+## 🌐 Professional Portfolio
 
 dareformore.dev — my professional portfolio presenting my full-stack/cloud engineering profile, selected career impact, certifications, AI-assisted development approach, and production-quality web delivery.
 
